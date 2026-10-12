@@ -8,5 +8,3 @@
 | Broader natural-video and repeatability validation | Pending | Evaluation approach |
 | Later-stage adaptive optimization | Planned | High-level project goals |
 | Competition-ready demonstration | Not yet published | Demo status |
-
-Only add dated updates supported by actual work. Avoid publishing internal issue identifiers, configurations, or results without review.

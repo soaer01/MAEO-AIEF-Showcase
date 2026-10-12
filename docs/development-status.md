@@ -10,5 +10,3 @@
 | User-facing demonstration | Optional | No public working demo is asserted |
 
 **Evidence limitations:** Earlier experiments include limited evaluation coverage and do not establish broad benchmark superiority. No performance numbers are published in this showcase.
-
-Update this file only when an actual milestone is achieved and both researchers approve the disclosure.
