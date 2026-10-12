@@ -37,4 +37,4 @@ This is a **public project showcase**, not an open-source implementation. Detail
 
 ## Competition submission
 
-This repository is intended to accompany a competition registration. It does not claim to satisfy requirements for public source-code submission; organizers should be consulted if executable code is mandatory.
+This repository is intended to accompany a competition registration. It does not claim to satisfy requirements for public source-code submission; organizers can consult if executable code is mandatory.
